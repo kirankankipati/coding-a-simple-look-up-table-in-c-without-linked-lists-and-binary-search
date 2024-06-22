@@ -2,7 +2,9 @@ Linked-lists is one of the most commonly used data-structures to store linear dy
 
 Having said, my most preferred choice when it comes to multidimensional data-structure is still plain simple fail-proof “arrays”. I use strictly arrays whenever I need a multidimensional data-structure. Say a packet queue, some items to store, instructions, jobs, so on. So what I do is a simple look-up-table without Linked lists. Since here the memory is statically allocated (not runtime), it is pretty safe. Of course you cannot resize while in operation. But it guarantees a crash proof rock solid code-base for any critical applications. So this example source which I wrote and discussed in the video.
 
-For more details kindly refer: my Website article - The Linux Channel - https://thelinuxchannel.org/2023/12/coding-a-simple-look-up-table-in-c-without-linked-lists-and-a-binary-search/ my YouTube video - https://youtu.be/rdKxxwlu_QA
+For more details kindly refer: my Website article - The Linux Channel - https://thelinuxchannel.org/2023/12/coding-a-simple-look-up-table-in-c-without-linked-lists-and-a-binary-search/
+
+my YouTube video - https://youtu.be/rdKxxwlu_QA
 
 I also conduct sessions/classes on Systems and Network Software Programming, Linux Kernel Programming and Architecture. Kindly follow the link below: https://thelinuxchannel.org/courses/
 
